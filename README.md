@@ -8,9 +8,30 @@ Perfect for beginners, students, and aspiring web developers.
 
 
 
+## ⚙️ Installation & Setup
+
+**Clone the repo**
+```bash
+
+# For Node.js
+npm install
+
+# For Laravel
+composer install
+
+cp .env.example .env
+# Add DB credentials, APP_KEY, etc.
+
+npm run dev
+# OR
+php artisan serve
+
 📬 Contact
 
 👨‍💻 Sahin Islam
-Phone: 01920722014
-Email: sahinislam1012@gmail.com
+
 GitHub: @sahinislam101
+
+Phone Number: 01920722014
+
+Email: sahinislam1012@gmail.com
